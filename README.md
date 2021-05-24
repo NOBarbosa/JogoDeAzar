@@ -12,7 +12,8 @@ Lucro = prêmio - taxa ----> Lucro = 25 - 5 = 20
 Sempre que perde, você tem o prejuízo de R$ 5,00 (cinco reais).
 
 #### Vamos as Possibilidades:
-Como os dados são honestos, as faces tem chances iguais de sair. Vamos observar o [Espaço Amostral](https://pt.wikipedia.org/wiki/Espa%C3%A7o_amostral)
+Como os dados são honestos, as faces tem chances iguais de sair. Vamos observar o [Espaço Amostral](https://pt.wikipedia.org/wiki/Espa%C3%A7o_amostral) desse experimento e verificar quais as chances de vitória.
+
 
 
 
