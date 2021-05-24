@@ -29,7 +29,7 @@ Lucro Líquido | Probabilidade associada ao lucro
 20| prob de ter lucro 20 = 1/6
 
 ### Está claro que com apenas 1 tentativa as chances de vitória são bem baixas porém, se jogarmos mais de uma vez será que o lucro não compensa o prejuízo?
-#### Para responder essa questão analise o código [Jogo dos Dados](). Lembre-se que quanto maior a quantidade de vezes jogadas mais preciso serão seus resultados.
+#### Para responder essa questão analise o código [Jogo dos Dados](https://github.com/NOBarbosa/JogoDeAzar/blob/main/jogodeazar.py). Lembre-se que quanto maior a quantidade de vezes jogadas mais preciso serão seus resultados.
 
 
 
